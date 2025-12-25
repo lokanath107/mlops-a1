@@ -10,3 +10,5 @@
 ##### TO RUN on docker
 5. sudo docker build -t mlops-group113
 6. sudo docker run -p 8080:8080 mlops-group113
+
+note: replace the cloud run name and the region in mlops-pipeline yaml file and add the cloud run key to git hub secrets ith name GCP_SA_KEY
