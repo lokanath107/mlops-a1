@@ -7,3 +7,9 @@ ucimlrepo
 pandas 
 seaborn 
 matplotlib
+pytest
+fastapi
+httpx
+scikit-learn
+joblib
+pandas
