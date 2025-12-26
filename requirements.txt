@@ -13,3 +13,4 @@ httpx
 scikit-learn
 joblib
 pandas
+flake8
