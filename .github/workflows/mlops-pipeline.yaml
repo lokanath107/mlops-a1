@@ -32,7 +32,7 @@ jobs:
       # ---------------- MODEL TRAINING ----------------
       - name: Train model
         run: |
-          python train.py
+          python src/train.py
 
       # ---------------- ARTIFACTS ----------------
       - name: Upload trained model
