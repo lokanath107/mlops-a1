@@ -16,3 +16,4 @@ pandas
 flake8
 pydantic
 typing
+mlflow
